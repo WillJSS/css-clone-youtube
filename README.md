@@ -8,21 +8,8 @@ Este projeto é um clone básico de uma página de vídeo do YouTube, desenvolvi
 - Exibição de informações do vídeo, como título, visualizações e ações.
 - Seção de descrição do vídeo.
 
-## Como usar
-
-1. Faça o download ou clone este repositório.
-2. Abra o arquivo `index.html` em seu navegador da web.
-3. Assista ao vídeo e explore as informações relacionadas a ele.
 
 ## Tecnologias utilizadas
 
 - HTML5
 - CSS3
-
-## Contribuição
-
-Contribuições são bem-vindas! Sinta-se à vontade para fazer fork deste repositório e enviar pull requests com melhorias, correções de bugs ou novos recursos.
-
-## Licença
-
-Este projeto está licenciado sob a Licença MIT - consulte o arquivo [LICENSE](LICENSE) para obter mais detalhes.
